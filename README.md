@@ -3,7 +3,8 @@
 SortFlow is a modern, high-fidelity Sorting Algorithm Visualizer designed to demonstrate frontend engineering capabilities and algorithm behaviors. Built with **React 19**, **TypeScript**, **Tailwind CSS v4**, **Framer Motion**, and the **HTML5 Web Audio API**, SortFlow allows users to visually inspect and *audibly hear* how different sorting algorithms execute.
 
 ## 🔗 Live Demo
-👉 **[Live Demo URL](https://sortflow-363kpz9x1-yashraj-mishras-projects-f8b2b922.vercel.app/)**
+👉 **[Live Demo URL](https://sortflow-yashraj.vercel.app/)**
+
 
 
 ---
