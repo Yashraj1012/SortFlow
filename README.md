@@ -67,14 +67,6 @@ Press `?` or click the **Shortcuts** button in the control panel to view:
 
 ---
 
-## 🎨 Screenshots & Demos
-
-*Add your visual screenshots or GIFs here to showcase the app on your GitHub!*
-- **Visualizer Dashboard**: `assets/screenshot-dashboard.png`
-- **Comparison Mode**: `assets/screenshot-comparison.png`
-
----
-
 ## ⚙️ Local Installation & Setup
 
 1. **Clone the Repository**:
